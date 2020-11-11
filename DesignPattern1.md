@@ -8,4 +8,4 @@ Figure  shows the logical architecture of such a design pattern.
 In this case, archival storage is moved to the Cloud.
 
  
-Figure 2: Logical architecture of a PACS/VNA solution to reduce storage costs
+![Figure 2: Logical architecture of a PACS/VNA solution to reduce storage costs](Picture2.png)
